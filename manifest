@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: My module
+author: Pierre Hunault
+license: This is a paid application
+copyright: Pierre Hunault 2013
+
+
+# these should not be edited
+name: MacAddressScanner
+moduleid: com.pierrehunault.macaddressscanner
+guid: 098d30a9-5348-47d9-b573-37aa846e7dcc
+platform: iphone
+minsdk: 3.1.0.GA
